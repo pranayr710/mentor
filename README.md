@@ -344,3 +344,7 @@ student's build.
 You do **not** need ChatGPT Plus: NitroStudio's own AI Chat is an MCP client with a model
 picker, gated on NitroCloud sign-in rather than a ChatGPT plan. Confirm with the organizers
 that a Studio demo satisfies the submission rules.
+
+## Team
+
+Built by **Megha Pranay Raparla** ([@pranayr710](https://github.com/pranayr710)) and **Mannava Daasaradhi** ([@Mannava-Daasaradhi](https://github.com/Mannava-Daasaradhi)) for the Agentic AI Hackathon 2026 (Amrita Vishwa Vidyapeetham × NitroStack). Originally developed in the hackathon organisation's repository; published here with the full commit history.
